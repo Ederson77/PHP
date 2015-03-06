@@ -47,7 +47,7 @@ nav#menu ul {
 	text-transform: uppercase;
 	position: absolute;
 	top: -10px;
-	left: 750px;
+	left: 750px;	
 }
 
 nav#menu li {
@@ -60,6 +60,7 @@ nav#menu li {
     -ms-transition: background-color 1s;
     -o-transition: background-color 1s;
     transition: background-color 1s;
+	box-shadow: 1px 1px 10px rgba(0,0,0,.5);
 }
 
 nav#menu li:hover {
